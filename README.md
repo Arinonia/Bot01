@@ -1,7 +1,7 @@
 # Bot01 🤖
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/Arinonia/Bot01)
-[![Gradle](https://img.shields.io/badge/gradle-v7.3-blue)](https://gradle.org/)
+[![Gradle](https://img.shields.io/badge/gradle-v8.8-blue)](https://gradle.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 Welcome to **Bot01**, a Discord bot built by **Arinonia**. This bot is designed to help you easily access various Zone01 projects subjects and audits directly from Gitea server, scraping and sending them as markdown to Discord channels.
