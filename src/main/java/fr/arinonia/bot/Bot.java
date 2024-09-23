@@ -42,7 +42,6 @@ public class Bot {
     }
 
     private void init() {
-        System.gc();
         try {
             jda.awaitReady();
             LOGGER.info("JDA is ready and connected.");
