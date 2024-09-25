@@ -10,7 +10,7 @@ Welcome to **Bot01**, a Discord bot built by **Arinonia**. This bot is designed 
 - Slash commands to fetch subjects and audits 📄
 
 ## 🌈 Future Features
- - Plugin API: In future versions, I plan to implement an API for Bot01, similar to Spigot for Minecraft. This will allow developers to create plugins for the bot, enhancing its functionality and versatility.
+- **Plugin API**: I plan to implement a Plugin API for Bot01 in future versions, similar to Spigot for Minecraft. This will allow developers to create plugins that enhance Bot01's functionality and versatility. The API is currently under development and can be found in the following repository: [Bot01-API](https://github.com/Arinonia/Bot01-API).
 
 
 ## 🛠️ Technologies
